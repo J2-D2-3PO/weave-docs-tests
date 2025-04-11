@@ -5,13 +5,15 @@ import TabItem from '@theme/TabItem';
 
 <!-- TODO: Update wandb.me/weave-quickstart to match this new link -->
 
-Follow these steps to track your first call or <a class="vertical-align-colab-button" target="_blank" href="http://wandb.me/weave_colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Oh no Im a wRRRiting mistake :(
+
+FOLLOW these steps to track your first call or <a class="vertical-align-colab-button" target="_blank" href="http://wandb.me/weave_colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## 1. Install Weave and create an API Key
 
 **Install weave**
 
-First install the weave library:
+First add a comma then install the weave library:
 
 <Tabs groupId="programming-language" queryString>
   <TabItem value="python" label="Python" default>

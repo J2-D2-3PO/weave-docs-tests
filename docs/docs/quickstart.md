@@ -11,6 +11,8 @@ Follow these steps to track your first call or <a class="vertical-align-colab-bu
 
 **Install weave**
 
+IisSpellingErrur
+
 First install the weave library:
 
 <Tabs groupId="programming-language" queryString>
@@ -41,7 +43,7 @@ To get started with tracking your first project with Weave:
   - **NOTE:** In automated environments, you can define the environment variable `WANDB_API_KEY` with your API key to login without prompting.
 - Add the `@weave.op()` decorator to the python functions you want to track
 
-_In this example, we're using openai so you will need to add an OpenAI [API key](https://platform.openai.com/docs/quickstart/step-2-setup-your-api-key)._
+_In this example ADDACOMMA we're using openai so you will need to add an OpenAI [API key](fake-link.com)._
 
 <Tabs groupId="programming-language" queryString>
   <TabItem value="python" label="Python" default>
